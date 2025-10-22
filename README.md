@@ -12,7 +12,7 @@
         "C#", "C++", ".NET Framework", "WinForms",
         "ADO.NET", "SQL Server", "T-SQL", "RESTful API","Win32 APIs"
         "GitHub", "3-Tier Architecture", "Event-Driven Programming",
-        "Object-Oriented Programming", "Functional Programming"
+        "Object-Oriented Programming", "Functional Programming","System Design"
     ]
 }
 ```
