@@ -20,6 +20,14 @@ public class AhmedFawaz
         "RESTful API", "Win32APIs","GitHub", "3-Tier Architecture",
         "Object-Oriented Programming","Functional Programming" ,"System Design"
     };
+### 📫 Reach Out 
+
+→ Telegram: [@Ahmed_AlHiti](https://t.me/Ahmed_AlHiti)
+
+→ LinkedIn: [Ahmed Alhiti](https://www.linkedin.com/in/ahmed-alhiti-7517b1379?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app)
+
+→ Email: ahmed19ye850@gmail.com
+
 }
 
 public class ProfileInfo
