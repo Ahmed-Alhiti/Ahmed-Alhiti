@@ -21,12 +21,6 @@ public class AhmedFawaz
         "Object-Oriented Programming","Functional Programming" ,"System Design"
     };
 
-### 📫 Reach Out 
-
-→ LinkedIn: [Ahmed Alhiti](https://www.linkedin.com/in/ahmed-alhiti-7517b1379?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app)
-
-→ Email: ahmed19ye850@gmail.com
-
 }
 
 public class ProfileInfo
@@ -34,3 +28,9 @@ public class ProfileInfo
     public string Occupation { get; set; }
     public string Education { get; set; }
 }
+...
+### 📫 Reach Out 
+
+→ LinkedIn: [Ahmed Alhiti](https://www.linkedin.com/in/ahmed-alhiti-7517b1379?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app)
+
+→ Email: ahmed19ye850@gmail.com
