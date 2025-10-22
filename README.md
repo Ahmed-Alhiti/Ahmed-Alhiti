@@ -7,12 +7,11 @@
     "profile": {
         "occupation": "Software Developer",
         "education": "Bachelor's Degree in Information Technology",
-        "currentlyLearning": "Advanced ASP.NET Core & Design Patterns"
     },
     "skills": [
-        "C#", "C++", ".NET Framework", "ASP.NET Core", "WinForms",
-        "ADO.NET", "SQL Server", "T-SQL", "RESTful API",
-        "Git/GitHub", "3-Tier Architecture", "Event-Driven Programming",
+        "C#", "C++", ".NET Framework", "WinForms",
+        "ADO.NET", "SQL Server", "T-SQL", "RESTful API","Win32 APIs"
+        "GitHub", "3-Tier Architecture", "Event-Driven Programming",
         "Object-Oriented Programming", "Functional Programming"
     ]
 }
