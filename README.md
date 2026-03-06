@@ -1,4 +1,4 @@
-![header](profile.png)
+![header](profile.jpg)
 
 ### ✨ About Me
 ```csharp
