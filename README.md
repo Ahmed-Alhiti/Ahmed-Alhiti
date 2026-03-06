@@ -1,4 +1,4 @@
-![header](profile.jpg)
+![header](./profile.jpg)
 ### ✨ About Me
 ```csharp
 {
